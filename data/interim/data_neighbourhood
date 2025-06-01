@@ -1,0 +1,2 @@
+price_neighbourhood.to_csv('price_neighbourhood.csv', index = False)
+print()
